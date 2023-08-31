@@ -5,7 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohankapadiya](https://github.com/rohankapadiya)
 
-- 💬 Ask me about **react, vue and gsap.**
+- 💬 Ask me about **coding, testing, and debugging.**
+
+- 💻 Love to talk about **react, vue, and gsap.**
 
 - 📫 How to reach me **rohankapadiya29@gmail.com**
 
